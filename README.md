@@ -1,2 +1,2 @@
 # nate-4000.github.io
-website i made for some reason
+i made this site for some rason, dont ask me why tho
