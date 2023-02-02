@@ -1,13 +1,9 @@
 # day 1
-ok i got a blog   
-what do i do now  
-hlep
-
 ok i figured out how to use a blog  
 so umm yeah blog cool
 
 anyways so i made this guthib repo called NLTTYSE  
-its called that cause i was too lazy to learn ansi escape codes, so i remade them but ~~more complicated~~ simpler.
+its called that cause i was too lazy to learn ansi escape codes, so i remade them but ~~more complicated~~ simpler.  
 its literally one file, so i can just put it here:
 ```py
 """
@@ -129,3 +125,9 @@ def apop(x, y, le):
     """Pops an area from the screen."""
     pusht(x, y, " "*le)
 ```
+
+it is a bit large, after the first few iterations it required being a file instead of a message to go on discord  
+honestly i think this is the best thing i have made, its really cool and i use it almost constantly
+
+it requires only keyboard, and i was going to move it to c code and learn c, but idk if i have the patience for learning c programs  
+~~expect c code or related in my blog way later in the future~~~
