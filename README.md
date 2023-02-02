@@ -2,5 +2,5 @@
 i made this site for some reason, dont ask me why tho
 
 pages:
- * [[burger king foot lettuce]]
- * [[blog]]
+ * (burger king foot lettuce)[burger king foot lettuce]
+ * (blog)[blog]
