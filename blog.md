@@ -133,4 +133,4 @@ it requires only keyboard, and i was going to move it to c code and learn c, but
 ~~expect c code or related in my blog way later in the future~~~
 
 addendium: guess whos pulling out visual studio right now at 1675307363 unix time to learn c? thats right, me.
-ok so windows hates c for some reason, so im ~~doing math~~ learning c++ instead
+ok so windows hates c for some reason, so im ~~doing meth~~ learning c++ instead
