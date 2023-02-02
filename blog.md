@@ -132,7 +132,7 @@ honestly i think this is the best thing i have made, its really cool and i use i
 it requires only keyboard, and i was going to move it to c code and learn c, but idk if i have the patience for learning c programs  
 ~~expect c code or related in my blog way later in the future~~~
 
-addendium: guess whos pulling out visual studio right now at 1675307363 unix time to learn c? thats right, me.
+addendium: guess whos pulling out visual studio right now at 1675307363 unix time to learn c? thats right, me.  
 ok so windows hates c for some reason, so im ~~doing meth~~ learning c++ instead
 
 update:
