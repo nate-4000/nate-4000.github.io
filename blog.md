@@ -135,4 +135,5 @@ it requires only keyboard, and i was going to move it to c code and learn c, but
 addendium: guess whos pulling out visual studio right now at 1675307363 unix time to learn c? thats right, me.
 ok so windows hates c for some reason, so im ~~doing meth~~ learning c++ instead
 
-update: ![image](https://user-images.githubusercontent.com/83925246/216225054-8098d59d-eb85-4f5a-b3d5-9dc8db3df39d.png)
+update:
+![image](https://user-images.githubusercontent.com/83925246/216225054-8098d59d-eb85-4f5a-b3d5-9dc8db3df39d.png)
