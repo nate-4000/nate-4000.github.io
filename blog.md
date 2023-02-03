@@ -30,6 +30,59 @@ visual studio borke, so i needed to reinstall the .net framework
 
 i may be getting it to work soon
 
+just realized c# has more imports than a python script for an ai
+
+```cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace nlttysecs
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("im pretty sure it works now");
+            Console.ReadKey();
+        }
+    }
+}
+```
+
+update: i figured out functions
+```cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.InteropServices;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace nlttysecs
+{
+    internal class Program
+    {
+        static void print(params string[] strings) { 
+            foreach (string s in strings)
+            {
+                Console.Write(s + " ");
+            }
+        }
+        static void Main(string[] args)
+        {
+            // var scnmem = new List<Tuple<int, int, string>> [1, 1, 1];
+            print("A");
+            Console.ReadKey();
+        }
+    }
+}
+```
+
+im gonna go play people playground, thats enough headache for now
+
 # day 1
 ok i figured out how to use a blog  
 so umm yeah blog cool
