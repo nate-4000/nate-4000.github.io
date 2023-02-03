@@ -83,6 +83,9 @@ namespace nlttysecs
 
 im gonna go play people playground, thats enough headache for now
 
+another thing: you guys asked for my game so i added it.  
+Have fun playing explora!
+
 # day 1
 ok i figured out how to use a blog  
 so umm yeah blog cool
