@@ -1,3 +1,35 @@
+# day 2
+ok so i got some code.
+i can code in cpp now idk how tho
+have the crappiest hello world i could manage
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "i can code in c++ now?\nwierd\n" << flush;
+    unsigned long i = 0;
+    i--;
+    cout << i << "\n";
+    string d = "";
+    cin >> d;
+    cout << d << flush;
+    return 0;
+}
+```
+basic stuff for messing with cpp and unsigned integers.
+
+im going back to c#, as i know how to code in it, plus it is actually intuitive to use
+
+plus, i can actually clear the screen without having to be using things like "ansi" or "#ifdef"   
+srsly i hate #ifdef.  
+you c++ ers can fight me on this
+
+visual studio borke, so i needed to reinstall the .net framework
+
+i may be getting it to work soon
+
 # day 1
 ok i figured out how to use a blog  
 so umm yeah blog cool
@@ -130,7 +162,7 @@ it is a bit large, after the first few iterations it required being a file inste
 honestly i think this is the best thing i have made, its really cool and i use it almost constantly
 
 it requires only keyboard, and i was going to move it to c code and learn c, but idk if i have the patience for learning c programs  
-~~expect c code or related in my blog way later in the future~~~
+~~expect c code or related in my blog way later in the future~~
 
 addendium: guess whos pulling out visual studio right now at 1675307363 unix time to learn c? thats right, me.
 ok so windows hates c for some reason, so im ~~doing meth~~ learning c++ instead
