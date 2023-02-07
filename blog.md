@@ -6,9 +6,9 @@ all the instructions are done and fleshed out, and the documentation is written.
 all i need to do is integrate it into NLOS, which i will do on day 7.
 so for right now i will be taking a break from coding.
 
-i also installed a new font, fira code.
-it has ligatures, so `//=` looks really cool, and `<=` actually looks like `≤`
-i am really happy with it, and i have put it in all my ides.
+i also installed a new font, fira code.  
+it has ligatures, so `//=` looks really cool, and `<=` actually looks like `≤`  
+i am really happy with it, and i have put it in all my ides.  
 
 # day 5
 so over the weekend i didnt do anything, so i skipped those days.
